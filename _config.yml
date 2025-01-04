@@ -8,48 +8,48 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lorenzo's homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lorenzo Cirillo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lorcir28.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/LorCir28/LorCir28.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo.jpg"
+  name             : "Lorenzo Cirillo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D Student in Computer Vision & Cybersecurity"
+  location         : "Rome (Italy)"
+  employer         : "Sapienza University of Rome"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cirillo@diag.uniroma1.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=8B4FDbIAAAAJ&scilu=&scisig=AE3b8UAAAAAAZ3fKMOLKJVcFqg-l-WqgWGfk0CM&gmla=AFix5MaVCmjvx1jBx12vWxHNyhkrM1WLLiE660cQ2WAf_mhKhOyFp8zbA5YYgT5IjrQQkL5cxiIQpae_w1p9cZKQOljNo8vo-I8kD7UzfRI&sciund=15104747108643019594"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-5266-8957"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://researchgate.net/profile/Lorenzo-Cirillo-2/research"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "LorCir28"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "lorenzo-cirillo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -77,11 +77,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: '📖 Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '🗞 Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: '🎙️ Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
