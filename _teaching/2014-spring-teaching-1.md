@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Vision (held by Prof. Irene Amerini)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Master in Artificial Intelligence & Robotics"
+# permalink: /teaching/2014-spring-teaching-1
+link: "https://sites.google.com/diag.uniroma1.it/ireneamerini/teaching"
+venue: "Sapienza University of Rome, Department of Computer, Automatic and Management Engineering (DIAG)"
 date: 2014-01-01
-location: "City, Country"
+location: "Rome, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teacher Assistant of the Computer Vision course held by [Prof. Irene Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+For any information about the practical lessons and related Google Colab notebooks, contact me at cirillo@diag.uniroma1.it
