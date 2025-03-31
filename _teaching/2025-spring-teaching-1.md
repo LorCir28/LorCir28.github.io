@@ -5,7 +5,7 @@ type: "Master in Artificial Intelligence & Robotics"
 # permalink: /teaching/2014-spring-teaching-1
 link: "https://sites.google.com/diag.uniroma1.it/ireneamerini/teaching"
 venue: "Sapienza University of Rome, Department of Computer, Automatic and Management Engineering (DIAG)"
-date: 2014-03-01
+date: 2025-03-01
 location: "Rome, Italy"
 ---
 
