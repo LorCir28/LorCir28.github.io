@@ -34,5 +34,5 @@ Thesis: Automating Gitlab procedures of scaffolding: quick project initializatio
 Deep learning security and efficiency
 - **AI researcher**, Bank of Italy (2023/5 - 2024/3)  
 Knowledge graphs and graph databases modeling
-- **Software engineer**, Key Partner srl (2022/3 - 6/2023)  
+- **Software engineer**, Key Partner srl (2022/3 - 2023/6)  
 Full-stack developing
