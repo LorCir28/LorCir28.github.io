@@ -20,3 +20,9 @@ main:
 
   - title: "Events"
     url: /events/
+
+  - title: "Attended Schools"
+    url: /schools/
+
+  - title: "Awards"
+    url: /awards/

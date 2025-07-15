@@ -227,6 +227,12 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  schools:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -288,6 +294,24 @@ defaults:
   - scope:
       path: ""
       type: events
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _schools
+  - scope:
+      path: ""
+      type: schools
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+ # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
