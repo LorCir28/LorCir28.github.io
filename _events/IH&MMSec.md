@@ -15,4 +15,4 @@ link: "https://www.ihmmsec.org/cms/special-sessions/index.html"
  This special session aims to gather interdisciplinary contributions that advance the foundations and practice of robust and trustworthy multimedia forensics across all modalities such as images, text and audio, encouraging research that challenges existing assumptions and proposes forward-looking solutions across the full spectrum of multimedia analysis
 
  Important Info:
- - TBD
+ - TBD 
